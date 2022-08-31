@@ -1,22 +1,5 @@
-# Vanilla Frontend Project Boilerplate
-
-This is a Frontend Development Boiler for Creatinf Vanilla(html, CSS, Javascript) Projects.
-We also try to make use of SASS whereever we can.
-
-To `install` `sass` enter the following in the terminal:
-
-```javascript
-npm install sass
-```
-
-To `auto` `transcompile` enter the following in the terminal:
-
-```javascript
-sass --watch sourcefile.scss:destinationfile.css
-```
-
-SASS [Documentation](https://sass-lang.com/documentation/).
+# Feedback UI Design
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img src="https://media1.giphy.com/media/dUKiFph2vj3G1PeopT/giphy.gif?cid=790b761190d9bbafd591bc14ab14b8a2f2ae66ddad471f09&rid=giphy.gif&ct=g">
 </p>
